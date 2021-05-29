@@ -15,4 +15,6 @@ MySOL 阿里云8.0
 Redis 5.0.10
 RabbitMQ 3.8.14
 
+前端下载： https://imcfile.oss-cn-beijing.aliyuncs.com/shizhan/file/392/dist.zip
+
 
